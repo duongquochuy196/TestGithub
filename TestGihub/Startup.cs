@@ -9,6 +9,8 @@ namespace TestGihub
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            //ádf
+        
         }
     }
 }
